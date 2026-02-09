@@ -12,7 +12,7 @@ from game_logic import (
 class Game_GUI:
     def __init__(self):
         self.window = tk.Tk()
-        self.window.title("Control Shield Quantum")
+        self.window.title("XO Game")
 
         self.board = create_board()
         self.current_player = "X"
