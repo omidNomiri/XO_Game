@@ -92,6 +92,7 @@ Columns:
 ## Project example
 
 Game GUI
+
 ![GUI image](GUI_image.png)
 
 ## Idea for future features
